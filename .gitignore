@@ -1,1 +1,6 @@
-./export/
+export/
+image/
+output/
+import/
+detail/
+.idea/
